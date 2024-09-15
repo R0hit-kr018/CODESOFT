@@ -1,0 +1,52 @@
+.container {
+    text-align: center;
+    margin-top: 23px
+}
+
+body {
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20211118/pngtree-blue-round-technology-dashboard-image_908916.jpg");
+    background-color: #cccccc;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    border-radius: 21px;
+    font-size: 34px;
+    background: #808080;
+    height: 65px;
+    width: 270px;
+    scroll-behavior: smooth;
+}
+
+button {
+    border-radius: 20px;
+    font-size: 20px;
+    background: #00FFFF;
+    color: #000000;
+    width: 60px;
+    height: 50px;
+    margin: 6px;
+}
+
+button:hover {
+    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #008000 0 -3px 0 inset;
+    transform: translateY(-2px);
+}
+
+
+.calculator {
+    background-color: #161616;
+    padding: 24px;
+    border-radius: 54px;
+    display: inline-block;
+
+}
+
+body {
+    color: white;
+    font-family: Times;
+    text-decoration: underline overline 5px;
+}
